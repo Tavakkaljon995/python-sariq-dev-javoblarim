@@ -1,0 +1,7 @@
+print("\"Nexia\" , \"Tico\" , 'Damas' ko'rganlar qilar havas")
+print(5**4)
+print(22//4)
+print("Tomonlari 125 bo'lgan kvadratning yuzi:",125**4, "perimetri esa:",125*4, "ga teng")
+print((12/2)**2*3.14)
+print((6**2+7**2)**0.5)
+print("5 ning 4 chi darajasi", 5**4,"bo'ladi")
